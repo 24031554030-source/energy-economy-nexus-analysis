@@ -42,3 +42,34 @@ ETL Pipeline
 Data Cleaning
 Data Transformation
 Data Integration
+## Key Features
+
+✔ ETL Pipeline
+
+✔ Data Warehouse Design
+
+✔ PostgreSQL Database
+
+✔ SQL Query Optimization
+
+✔ OLAP Cube Analysis
+
+✔ Interactive Dashboard
+
+✔ Time-Series Economic Analysis
+
+✔ Data Visualization
+## Skills Demonstrated
+Data Warehousing
+ETL Development
+SQL Querying
+Database Design
+Data Integration
+Data Analysis
+Business Intelligence
+Dashboard Development
+Economic Data Analysis
+Time Series Analysis
+## Project Outcome
+
+Successfully developed an integrated analytical platform capable of exploring relationships between energy prices and macroeconomic indicators, enabling efficient multidimensional analysis and supporting data-driven economic insights.
